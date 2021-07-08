@@ -55,6 +55,8 @@
             android:textSize="18sp"
             android:textStyle="bold"
             android:visibility="gone"
+            android:gravity="center"
+            android:background="@drawable/circle_blue"
             tools:visibility="visible"
             android:layout_margin="5dp"/>
 
@@ -67,6 +69,8 @@
             android:textStyle="bold"
             android:visibility="gone"
             tools:visibility="visible"
+            android:gravity="center"
+            android:background="@drawable/circle_yellow"
             android:layout_margin="5dp"/>
 
         <TextView
@@ -78,6 +82,8 @@
             android:textStyle="bold"
             android:visibility="gone"
             tools:visibility="visible"
+            android:gravity="center"
+            android:background="@drawable/circle_red"
             android:layout_margin="5dp"/>
 
         <TextView
@@ -89,6 +95,8 @@
             android:textStyle="bold"
             android:visibility="gone"
             tools:visibility="visible"
+            android:gravity="center"
+            android:background="@drawable/circle_gray"
             android:layout_margin="5dp"/>
 
         <TextView
@@ -100,6 +108,8 @@
             android:textStyle="bold"
             android:visibility="gone"
             tools:visibility="visible"
+            android:gravity="center"
+            android:background="@drawable/circle_gray"
             android:layout_margin="5dp"/>
 
         <TextView
@@ -111,6 +121,8 @@
             android:textStyle="bold"
             android:visibility="gone"
             tools:visibility="visible"
+            android:gravity="center"
+            android:background="@drawable/circle_gray"
             android:layout_margin="5dp"/>
 
     </LinearLayout>
